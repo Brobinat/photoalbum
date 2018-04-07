@@ -1,2 +1,3 @@
-# photoalbum
-testing of jekyll site by brobitnat
+just jekyll testing in different ways
+
+
